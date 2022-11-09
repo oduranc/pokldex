@@ -154,7 +154,7 @@ class _HomePageState extends State<HomePage> {
                         controller:
                             TextEditingController(text: searchedPokemon),
                         onChanged: (value) {
-                          searchedPokemon = value;
+                          searchedPokemon = value.toLowerCase();
                         },
                       ),
                     ),
