@@ -26,4 +26,4 @@ App Consuming PokéAPI
 
 <img src="./screenshots/dark/shot4.png" align="center" width="200" hspace="10" style="max-width: 100%;">\\
 
-<img src="./screenshots/light/shot5.png" align="center" width="200" hspace="10" style="max-width: 100%;">
+<img src="./screenshots/dark/shot5.png" align="center" width="200" hspace="10" style="max-width: 100%;">
